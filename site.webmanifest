@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "GlobeSpark Digital Agency",
   "short_name": "GlobeSpark",
   "description": "Results-Driven Performance Digital Marketing & SEO Agency in Himachal Pradesh",
@@ -8,7 +8,7 @@
   "theme_color": "#1D6FB5",
   "icons": [
     {
-      "src": "assets/globe logo.png",
+      "src": "assets/globe-logo.png",
       "sizes": "192x192 512x512",
       "type": "image/png",
       "purpose": "any maskable"
